@@ -7,12 +7,8 @@ n = küme eleman sayısı
 k = seçilen eleman sayısı
 
 
-      n!
-P = ______                   
-    (n-k)!
-    
-    
-    
-      n!
-C = ______
-    k!(n-k)!
+      
+P =  n! / (n-k)!
+ 
+C =  n! / k!(n-k)!
+ 
