@@ -5,10 +5,13 @@ P = Permütasyon
 C = Kombinasyon
 n = küme eleman sayısı
 k = seçilen eleman sayısı
-      
+
+
       n!
 P = ______                   
     (n-k)!
+    
+    
     
       n!
 C = ______
