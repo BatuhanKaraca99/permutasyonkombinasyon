@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-  int n,k,b,f=1,t=1,z=1;
+  int n,k,f=1,t=1,z=1;
   cout << "Permutasyon ve Kombinasyon Hesaplayici. \n\n";
   cout << "---------------------------------\n";
   cout << "n değerini giriniz: ";
